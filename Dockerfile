@@ -74,6 +74,7 @@ RUN \
         selenium                \
         elementium              \
         capybara-py             \
+        pip install jpath \
         xvfbwrapper             && \
     \
     \
